@@ -1,2 +1,3 @@
 # ucd
-Some theoritical projects during graduate study。
+Some theoritical projects during graduate study.
+
